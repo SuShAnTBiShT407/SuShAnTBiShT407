@@ -1,7 +1,7 @@
 Hi 👋 My name is Sushant Bisht
 ==============================
 
-Data Scientist
+Data Science Student
 --------------
 
 * 🌍  I'm based in Chandigarh
