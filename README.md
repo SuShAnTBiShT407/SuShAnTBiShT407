@@ -40,10 +40,4 @@ Data Science Student
 
 <a href="http://www.github.com/SuShAnTBiShT407"><img src="https://activity-graph.herokuapp.com/graph?username=SuShAnTBiShT407&bg_color=1c1917&color=ffffff&line=6366f1&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/SuShAnTBiShT407/SuShAnTBiShT407.github.io" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SuShAnTBiShT407&repo=SuShAnTBiShT407.github.io&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/SuShAnTBiShT407/StockPricePrediction.github.io" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SuShAnTBiShT407&repo=StockPricePrediction.github.io&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/SuShAnTBiShT407/Restaurant-Management-system-llite" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SuShAnTBiShT407&repo=Restaurant-Management-system-llite&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/SuShAnTBiShT407/FileHandling" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=SuShAnTBiShT407&repo=FileHandling&title_color=6366f1&text_color=ffffff&icon_color=6366f1&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
