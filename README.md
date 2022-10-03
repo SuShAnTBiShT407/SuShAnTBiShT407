@@ -1,13 +1,13 @@
 Hi 👋 My name is Sushant Bisht
 ==============================
 
-Data Science Student
+I'm an aspiring data scientist who love to solve real world problems by means of data
 --------------
 
 * 🌍  I'm based in Chandigarh
 * 🖥️  See my portfolio at [LinkedIn](http://www.linkedin.com/in/sushant-bisht-832598200/)
 * ✉️  You can contact me at [bishtsushant1649@gmail.com](mailto:bishtsushant1649@gmail.com)
-* 🚀  I'm currently working on [Unschool](http://www.unschool.in/)
+* 🚀  I worked as junior coach of c++ in an organization called [Unschool](http://www.unschool.in/)
 * 🧠  I'm learning Data Science
 * 🤝  I'm open to collaborating on Machine Learning or any Computer vision Project
 
