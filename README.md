@@ -1,7 +1,7 @@
 Hi 👋 My name is Sushant Bisht
 ==============================
 
-I'm an aspiring data scientist who love to solve real world problems by means of data
+I'm an Full Stack Software Developer who love to solve real world problems by means of data
 --------------
 
 * 🌍  I'm based in Chandigarh
